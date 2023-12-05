@@ -1,4 +1,30 @@
-## Hi there 👋
+<h1 align='center'>
+  Welcome to ProfeserCode. 👨‍💻
+</h1>
+
+<p align='center'>  
+![LOGO_FB](https://github.com/ProfeserCode/.github/assets/7212627/27dcd3f2-24e5-40bd-910f-a19720dc49bf)
+</p>
+
+<p align='center'>  
+  <a href="https://www.linkedin.com/company/profesercode">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/ProfeserCode">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profesercode">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;  
+</p>
+
+<p align='center'>  
+ProfeserCode stands as a group of programming experts and tutors specializing in the Faculty of Information and Communication Technology. Our team is armed with extensive knowledge in a variety of programming languages and frameworks, including JAVA, C#, C+, VB, Python, PHP, SQL, HTML, CSS, Javascript, jQuery, Xamarin, WordPress, CodeIgniter, PyTorch, and more. Dedicated to providing comprehensive guidance, we offer the expertise and modern frameworks necessary to propel your projects to success.
+
+Whether you're a student navigating the complexities of programming languages or a professional embarking on a new venture, our team is here to support you at every step. Let ProfeserCode be your partner in turning your project ideas into reality.
+
+In addition to our tutoring services, ProfeserCode creates articles to simplify intricate programming concepts with clear language and captivating visuals. Become part of a thriving community of engineers benefiting from accelerated learning through concise, bite-sized explanations. Join us on a journey where complex programming becomes comprehensible, and expertise is within reach.
+</p>
 
 <!--
 
