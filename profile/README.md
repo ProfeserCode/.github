@@ -10,6 +10,8 @@
 <p align='center'>  
   <img src="https://github.com/ProfeserCode/.github/assets/7212627/27dcd3f2-24e5-40bd-910f-a19720dc49bf" />
 </p>
+<br/>
+<br/>
 
 <p align='center'>  
   <a href="https://www.linkedin.com/company/profesercode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
