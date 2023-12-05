@@ -21,9 +21,11 @@
 
 <p align='center' style='text-align: justify;'>
 ProfeserCode stands as a group of programming experts and tutors specializing in the Faculty of Information and Communication Technology. Our team is armed with extensive knowledge in a variety of programming languages and frameworks, including JAVA, C#, C+, VB, Python, PHP, SQL, HTML, CSS, Javascript, jQuery, Xamarin, WordPress, CodeIgniter, PyTorch, and more. Dedicated to providing comprehensive guidance, we offer the expertise and modern frameworks necessary to propel your projects to success.
-
+</p>
+<p align='center' style='text-align: justify;'>
 Whether you're a student navigating the complexities of programming languages or a professional embarking on a new venture, our team is here to support you at every step. Let ProfeserCode be your partner in turning your project ideas into reality.
-
+</p>
+<p align='center' style='text-align: justify;'>
 In addition to our tutoring services, ProfeserCode creates articles to simplify intricate programming concepts with clear language and captivating visuals. Become part of a thriving community of engineers benefiting from accelerated learning through concise, bite-sized explanations. Join us on a journey where complex programming becomes comprehensible, and expertise is within reach.
 </p>
 
