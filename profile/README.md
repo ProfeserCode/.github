@@ -1,6 +1,10 @@
 <h1 align='center'>
-  Welcome to ProfeserCode. 👨‍💻<img src="img/mauritius.png" />
+  Welcome to ProfeserCode. 👨‍💻<img src="mauritius.png" />
 </h1>
+
+<h3 align='center'>
+  ProfessorCode: Your gateway to Expert Programming guidance
+</h3>
 
 <p align='center'>  
   <img src="https://github.com/ProfeserCode/.github/assets/7212627/27dcd3f2-24e5-40bd-910f-a19720dc49bf" />
