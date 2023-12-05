@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Welcome to ProfeserCode. 👨‍💻
+  Welcome to ProfeserCode. 👨‍💻<img src="img/mauritius.png" />
 </h1>
 
 <p align='center'>  
