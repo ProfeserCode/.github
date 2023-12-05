@@ -3,9 +3,10 @@
 </h1>
 
 <h3 align='center'>
-  ProfessorCode: Your gateway to Expert Programming guidance
+  ProfeserCode: Your gateway to Expert Programming guidance
 </h3>
-
+<br/>
+<br/>
 <p align='center'>  
   <img src="https://github.com/ProfeserCode/.github/assets/7212627/27dcd3f2-24e5-40bd-910f-a19720dc49bf" />
 </p>
